@@ -1,5 +1,4 @@
-PuzHub
-======
+# PuzHub
 
 Solutions to a bunch of programming puzzles in a bunch of different languages!
 
@@ -10,8 +9,7 @@ list them below and provide my solutions in the respective folders.
 
 The only solutions that I have worked on posting so far are for Rosalind.
 
-Programming Puzzles and Problem Sets
-------------------------------------
+## Programming Puzzles and Problem Sets
 
 - [Past Google Code Jam Problem Sets](http://code.google.com/codejam/contests.html)
 - [Rosalind Bioinformatics Problems](http://rosalind.info/)
